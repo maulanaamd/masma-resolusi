@@ -1,2 +1,2 @@
 # masma-resolusi
-repo khusus untuk mentracking progress pembelajaran saya
+repo khusus untuk mentracking progress pembelajaran 
